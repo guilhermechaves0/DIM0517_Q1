@@ -1,6 +1,3 @@
 hello
-<<<<<<< HEAD
 hello2
-=======
->>>>>>> b1
 hello3
